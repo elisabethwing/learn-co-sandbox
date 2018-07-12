@@ -1,0 +1,68 @@
+body{
+  background-color: #f4e8f4;
+  text-align: center;
+  color: #255096;
+  font: 15px Times;
+}
+.title{
+  text-align:center;
+  color: #7d98c4;
+  font:bold 50px Trattatello, fantasy;
+}
+
+.nav-tagline{
+  text-align: center;
+  color:#8ac0db;
+  font:"Trebuchet MS", Helvetica, sans-serif;
+}
+li {
+    display: inline;
+}
+/*ul {*/
+/*    list-style-type: none;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+
+#title-section{
+  margin:auto;
+  text-decoration:none;
+  color:#3d9625;
+  font:30px "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-variant: small-caps;
+  line-height: 1.5;
+  /*style:height: 100%; display: flex; justify-content: center; align-items: center;*/
+  display: inline-block;
+  vertical-align:central;
+  border:3px solid #cde5c0;
+  width:70%;
+  /*padding:10px;*/
+}
+#title-section a{
+  text-decoration: none;
+  color: #646b75;
+}
+#title-section a:hover{ text-decoration: none;
+          color: #7e63d8;
+}
+#description{
+  font: 20px Times;
+  padding: 100px;
+  text-align: left;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 7px;
+}
+/*#crab{*/
+/*  text-align:left;*/
+/*}*/
+/*#yama{*/
+/*  text-align:center;*/
+/*}*/
+
